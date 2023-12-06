@@ -1,0 +1,3 @@
+﻿  АСД_ЛАБ_3.cpp
+E:\source\repos\АСД_ЛАБ_3\АСД_ЛАБ_3\АСД_ЛАБ_3.cpp(320,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  АСД_ЛАБ_3.vcxproj -> E:\source\repos\АСД_ЛАБ_3\x64\Debug\АСД_ЛАБ_3.exe
